@@ -3,13 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>My Grocery List</title>
+    <link rel="stylesheet" href="css/styles.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
     <script src="js/app.js"></script>
 </head>
 <body ng-app="myApp">
     <div ng-controller="GroceryController">
-        <h1>My Grocery List</h1>
-        <div>
+        <header>
+            <img src="images/food_love.jpg"/>
+            <h1>Grocery List</h1>
+        </header>
+
+        <div class="itemAdd">
             <form ng-submit="addItem()">
                 <div>
                     <input type="text" ng-model="newItem" placeholder="Add Grocery Item" />
@@ -22,7 +27,7 @@
         <p>{{ newItem }}</p>
 
 
-        <div>
+        <div class="mainList">
             <h4>Items {{ groceries.length }}</h4>
             <table>
                 <tr ng-repeat="gro in groceries">

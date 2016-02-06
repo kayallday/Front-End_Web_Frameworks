@@ -7,7 +7,7 @@ app.controller('GroceryController', function($scope) {
     $scope.newItem;
 
     //List Item
-    $scope.groceries = ['Bread', 'Milk', 'Eggs'];
+    $scope.groceries = ['Spinach', 'Raspberries', 'Eggs'];
 
     //Add List Item
     $scope.addItem = function() {

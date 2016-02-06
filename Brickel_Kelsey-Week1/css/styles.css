@@ -1,8 +1,62 @@
-/* Contents */
-/*
-- Header
-- Navigation
-- Body
-- Text
+/* Kelsey M. Brickel */
 
-*/
+
+html {
+    font-size: 85.5%;
+    background-color: #7FDBD8;
+}
+
+body {
+    font: normal 1em/1.4 "Roboto Condensed", "Roboto", sans-serif;
+    padding: 1rem 1.5rem;
+}
+
+img {
+    float: left;
+    margin: auto;
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4.9rem;
+    color: #505254;
+    text-transform: uppercase;
+    margin: 2rem 0 5rem;
+    font-weight: bold;
+}
+
+.itemAdd, .mainList {
+    text-align: center;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+p {
+    padding: 0;
+    color: rgb(170, 175, 124);
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Button Styling */
+
+button, input {
+    color: inherit;
+    font: inherit;
+    margin: auto;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+button:hover {
+    opacity: 1;
+    color: #fff;
+}
