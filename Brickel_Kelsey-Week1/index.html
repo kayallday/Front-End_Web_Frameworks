@@ -16,8 +16,8 @@
 
         <div class="itemAdd">
             <form ng-submit="addItem()">
-                <div>
-                    <input type="text" ng-model="newItem" placeholder="Add Grocery Item" />
+                <div>  <!-- Validate form -->
+                    <input type="text" ng-model="newItem" placeholder="Add Grocery Item" required/>
                     <button type="submit">Save</button>
                 </div>
             </form>
