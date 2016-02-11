@@ -1,21 +1,19 @@
 /**
  * Created by kelseybrickel on 2/3/16.
  */
-var app = angular.module('myApp', []);
-app.controller('DBController', function($scope) {
+angular.module('myApp', []).controller('DBController', function($scope, dataService) {
     $scope.userName;
 
-    $scope.nameArray = ['Sean','Scott','Rebecca','Anna'];
+    $scope.nameArray = dataService.getNames();
 
     $scope.addName = function(){
-        $scope.nameArray.push($scope.userName);
+        dataService.addName($scope.userName);
 
         $scope.userName = '';
 
-    }
+    };
 
     $scope.deleteName = function(deletedName){
-        var idx = $scope.nameArray.indexOf(deletedName);
-        $scope.nameArray.splice(idx,1);
+        dataService.removeName(deletedName);
     }
 });
