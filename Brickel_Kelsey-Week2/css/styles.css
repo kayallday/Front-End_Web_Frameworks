@@ -1,7 +1,25 @@
 
+/* --------------- HEADER ----------------- */
 
+h1 {
+    background: #0FA0CE;
+    color: #222222;
+    text-transform: uppercase;
+}
+
+
+
+
+
+/* ---------------- MAIN CONTENT ------------------ */
+.mainContent {
+    background: #B2B2B2;
+    margin: 0 auto;
+    padding: 1em;
+}
 
 /* Button Styling */
 button.delete {
 
 }
+

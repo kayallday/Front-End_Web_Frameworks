@@ -13,12 +13,11 @@
        <h1>Employee Directory</h1>
    </header>
 
-   <div id="mainContent">
+   <div class="mainContent">
        <div class="row">
            <form>
                <div class="five columns">
-                   <h2>Add New Employee</h2>
-                   <h3>Contact Info</h3>
+                   <h3>Add New Employee</h3>
                    <label>Name</label>
                    <input class="u-full-width" name="name" ng-model="newAddress.name" placeholder="Full Name">
                    <label>Job Title</label>
@@ -44,6 +43,7 @@
    <!-- Display Employee info -->
 
                 <div class="seven columns">
+                    <h3>Employee Listings</h3>
                     <div ng-repeat="item in addresses track by $index">
                         <table class="u-full-width">
                             <thead>
@@ -56,15 +56,20 @@
                                     <th>Zip</th>
                                 </tr>
                             </thead>
-                        </table>
-                    {{item.name}}
-                        {{item.job}}
-                        <br>
-                    {{item.address}}
-                        <br>
-                    {{item.city}}, {{item.state}} {{item.zip}}
 
-                        <button class="delete" type="button" ng-click="removeMe($index)">&times;</button>
+                            <tbody>
+
+                                <tr>
+                                    <td>{{item.name}}</td>
+                                    <td>{{item.job}}</td>
+                                    <td>{{item.address}}</td>
+                                    <td>{{item.city}}</td>
+                                    <td>{{item.state}}</td>
+                                    <td>{{item.zip}}</td>
+                                    <button class="delete" type="button" ng-click="removeMe($index)">&times;</button>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </div>
        </div>

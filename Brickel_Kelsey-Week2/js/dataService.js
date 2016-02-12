@@ -14,8 +14,8 @@ angular.module("MyApp").service("DataService",function(){
     };
 
     this.saveAddress = function(pName,pJob,pAddress,pCity,pState,pZip){
-        var savedAdresses = {name: pName, job: pJob, address: pAddress, city: pCity, state: pState, zip: pZip };
-        addressArray.push(savedAdresses);
+        var savedAddresses = {name: pName, job: pJob, address: pAddress, city: pCity, state: pState, zip: pZip };
+        addressArray.push(savedAddresses);
         localStorage.setItem("addressesLS",JSON.stringify(addressArray));
     };
 
