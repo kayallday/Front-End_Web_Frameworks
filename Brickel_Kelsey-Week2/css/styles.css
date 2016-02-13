@@ -23,3 +23,10 @@ button.delete {
 
 }
 
+
+/* ---------------- FOOTER ------------------ */
+
+footer {
+    font-style: italic;
+    text-align: center;
+}
