@@ -16,9 +16,10 @@
     Quadrant I is reserved for assignments that are extremely important and immediately due. These should be the assignments you take care of first and foremost.
 </p>
 
+<div ng-controller="quadIcntrlr">
     <form class="pure-form pure-form-stacked">
         <fieldset>
-            <legend>Enter a new Urgent & Important Task</legend>
+            <legend>Enter a new Due Soon & Important Assignment</legend>
 
             <div class="pure-u-3-4">
                 <input class="pure-input-1" type="text" ng-model='newQuadI.task' placeholder="Due Soon, Very Important!"></input>
@@ -27,6 +28,7 @@
             <a class="pure-button pure-button-primary" href="#">Save Task</a>
         </fieldset>
     </form>
+</div>
 
 <footer>
     <p>
