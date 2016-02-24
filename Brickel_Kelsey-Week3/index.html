@@ -14,10 +14,10 @@
     <h1>Covey's Time Management Grid</h1>
 </header>
 
-<!-- Quad I: Urgent & Important
-     Quad II: Not Urgent & Important
-     Quad III: Urgent & Not Important
-     Quad IV: Not Urgent & Not Important
+<!-- Quad I: Due Soon & Important
+     Quad II: Not Due Soon & Important
+     Quad III: Due Soon & Not Important
+     Quad IV: Not Due Soon & Not Important
      -->
 
 <!-- This will be the 5th view that displays the entire quadrant -->
@@ -28,13 +28,44 @@
 
 <div class="container">
     <p>
+        Select a Quadrant to add a task to it.
         <a href="Quad1.html">Quad I</a> | <a href="Quad2.html">Quad II</a> | <a href="Quad3.html">Quad III</a> | <a href="Quad4.html">Quad IV</a>
     </p>
 
 
     <div ng-view></div>
 
+    <!-- Create a table -->
+    <table class="pure-table pure-table-bordered">
+        <thead>
+            <tr>
+                <th> </th>
+                <th> Due Soon </th>
+                <th> Not Due Soon</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Important</td>
+                <td>Quad I</td>
+                <td>Quad II</td>
+            </tr>
+            <tr>
+                <td>Not Important</td>
+                <td>Quad III</td>
+                <td>Quad IV</td>
+            </tr>
+        </tbody>
+    </table>
+
 </div>
+
+<footer>
+    <p>
+    &copy; Kelsey M. Beard | Full Sail University 2016
+    </p>
+</footer>
 <!-- script tags -->
 <script src="js/angular.min.js"></script>
 <script src="js/angular-route.min.js"></script>
