@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignments</title>
+
+    <!--link stylesheet-->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/normalize.css">
+
+</head>
+<body>
+<div class="header">
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#/">Goal</a></li>
+                <li><a href="#/assignment">Assignments</a></li>
+                <li><a href="#/achievement">Achievements</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<div class="row">
+    <div class="three column">
+
+    </div>
+    <div class="three column">
+        <h2>My Assignments</h2>
+
+        <h3>Do not put off tomorrow, what you could get done today.</h3>
+    </div>
+    <div class="three column">
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="five column">
+        <div class='form'>
+            <form id="aForm" name="aForm">
+                <ul>
+                    <li>
+                        <label for="assignment">New Assignment: </label>
+                        <input id="assignment" type="text" ng-model="newAssignment.assignment" placeholder="Front-End Web Frameworks: Week 3 Project" name="assignment" required>
+                    </li>
+
+
+                    <li>
+                        <label for="due">Assignment Due By: </label>
+                        <input id="due" type="date" ng-model="newAssignment.due" name="due" required>
+                    </li>
+
+                </ul>
+                <input type="submit" ng-click="addAssignment()" value="Add Assignment">
+            </form>
+        </div>
+    </div>
+    <div class="five column">
+        <div class="list assignmentList">
+            <h3>Assignments Due: </h3>
+            <div class='item'>
+                <ul>
+
+                    <li ng-repeat="ass in assignments track by $index"> <a href='#' ng-click="forgetAssignment(asi.$index)">x</a> <span class="assignment">{{ ass.assignment }}</span> is due by: <span class="due">{{ ass.due }}</span></li>
+                </ul>
+                <button class="button-primary" ng-click="clear()">Clear</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-route.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/service.js"></script>
+
+
+</body>
+</html>

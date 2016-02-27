@@ -1,0 +1,21 @@
+body {
+    padding-left: 2rem;
+}
+
+
+li {
+    padding: .5rem 1rem;
+    margin: -0.55rem auto;
+    display: inline-block;
+}
+
+
+a {
+    text-decoration: none;
+
+}
+
+footer {
+    margin: 0 auto;
+    padding-top: 2rem;
+}

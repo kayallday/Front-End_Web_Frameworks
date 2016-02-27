@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Achievements</title>
+
+    <!--link stylesheet-->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/normalize.css">
+
+</head>
+<body>
+<div class="header">
+    <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#/">Goal</a></li>
+                <li><a href="#/assignment">Assignments</a></li>
+                <li><a href="#/achievement">Achievements</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+    <h2>My Achievements</h2>
+
+
+<!-- form to add motives regarding user's goals-->
+<section>
+    <div class="form container">
+        <form id="achievementForm" name="achievementForm">
+            <h3>Celebrate the success</h3>
+            <div class="form-input" ng-class="{ 'has-error' : achievementForm.achievement.$dirty && achievementForm.achievement.$invalid }">
+                <label for="achievement">What I have achieved: </label>
+                <input type="text" ng-model="achievement" placeholder="I finally did it!!" name="achievement" id="achievement" required>
+            </div>
+            <button type="submit" ng-disabled="achievementForm.$invalid" ng-click="addAchievement()">Submit</button>
+
+        </form>
+    </div>
+</section>
+
+
+<section>
+    <div class="list achievement-list" ng-show='achievement.length'>
+        <h3>Woo Hoo!!</h3>
+        <div class="item">
+            <ul>
+                <li ng-repeat='ach in achievement track by $index'><a href='' ng-click="lostAchievement($index)">x</a> {{ ach }} </li>
+            </ul>
+        </div>
+        <button class="button-primary" ng-click="clear()">Clear</button>
+    </div>
+</section>
+
+
+<script src="js/angular.min.js"></script>
+<script src="js/angular-route.min.js"></script>
+<script src="js/app.js"></script>
+<script src="js/service.js"></script>
+
+
+
+
+</body>
+</html>
