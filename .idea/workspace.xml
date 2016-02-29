@@ -2,15 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3ed199-fc2e-4bdf-8dbc-77c3db8f651f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/js/angular-route.min.js" afterPath="$PROJECT_DIR$/Beard_Kelsey_Wk3/js/angular-route.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/js/angular.min.js" afterPath="$PROJECT_DIR$/Beard_Kelsey_Wk3/js/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brickel_Kelsey_Week4/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/backbone.localStorage.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/118295074_2675x2907-small-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/182429520_1646x1646-small-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/182741592_1098x949-small-15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-0922A80B-78BE-4C83-A197-B7ED71154705-67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-2475C2E5-278B-493C-958A-772678EC25AA-65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-30944C17-0DE2-4174-99F2-AE98463629E0-69.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-57227981-511A-4D84-8334-777FF5ED876F-72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-6095DC6F-3522-4FEA-857D-FBBFC61C54B8-63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-778E2175-1AFE-408C-94AE-08F40E696D22-64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-80A72923-1214-4DE2-AA5A-689BE9DCF36B-70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-AD8DB1A9-E57F-4CC3-BD5F-791EAF94B0ED-68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-B3C73A28-D529-4317-A8B3-ABB6174563FA-66.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-B98F865B-6996-4BCB-BFEA-D57DBDC23FBC-62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-C6FF007D-CA73-49A0-88E1-FFCBA28667A3-71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/mt-D9CB6ACF-FEE4-4841-8898-7AECD3F03296-61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/st-299C9283-4F27-46E3-8E45-4121745231D3-245.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/st-46715982-4C39-499A-A943-A6DBDA3C09B5-197.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/st-623E3DDF-4F7B-49DD-824F-7021611B1966-110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Data/st-FECDE575-9E54-4338-8735-3177399D1FB7-244.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Index.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Metadata/BuildVersionHistory.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Metadata/DocumentIdentifier" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/Metadata/Properties.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/preview-micro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/preview-web.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/Front_End_Web_Frameworks.key/preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/backbone-min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html" afterPath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad2.html" afterPath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html" afterPath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad4.html" afterPath="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/index.html" afterPath="$PROJECT_DIR$/Brickel_Kelsey-Week3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey-Week3/js/app.js" afterPath="$PROJECT_DIR$/Brickel_Kelsey-Week3/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Beard_Kelsey_Wk3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Beard_Kelsey_Wk3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Brickel_Kelsey_Week4/index.html" afterPath="$PROJECT_DIR$/Brickel_Kelsey_Week4/index.html" />
     </list>
     <ignored path="Front-End_Web_Frameworks.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,15 +50,15 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DockManager">
-    <window id="2">
+    <window id="1">
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/index.html">
+            <file leaf-file-name="Quad1.html" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.7222222">
-                    <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+                  <state vertical-scroll-proportion="0.95679015">
+                    <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
                     <folding />
                   </state>
                 </provider>
@@ -51,47 +75,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Quad1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.25">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.8765432">
+              <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quad2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad2.html">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30864197">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state vertical-scroll-proportion="-8.125">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Quad3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quad4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,6 +133,15 @@
         <option value="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html" />
         <option value="$PROJECT_DIR$/Brickel_Kelsey-Week3/js/app.js" />
         <option value="$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad2.html" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/libs/underscore-min.js" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/data/data.json.js" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/data/movies.json" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/backbone.localStorage.js" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/todomvc/base.css" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/todomvc/base.js" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/css/styles.css" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/app.js" />
+        <option value="$PROJECT_DIR$/Brickel_Kelsey_Week4/index.html" />
       </list>
     </option>
   </component>
@@ -119,8 +151,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="53" />
+    <option name="x" value="1180" />
+    <option name="y" value="319" />
     <option name="width" value="1364" />
     <option name="height" value="607" />
   </component>
@@ -149,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,52 +209,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Brickel_Kelsey_Week4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End_Web_Frameworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End_Web_Frameworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Brickel_Kelsey-Week3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End_Web_Frameworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End_Web_Frameworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Beard_Kelsey_Wk3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End_Web_Frameworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End_Web_Frameworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Beard_Kelsey_Wk3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Beard_Kelsey_Wk3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Peters_Janay-Week4" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Brickel_Kelsey_Week4/js" />
+      <recent name="$PROJECT_DIR$/Brickel_Kelsey_Week4/js/libs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -276,6 +297,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5a3ed199-fc2e-4bdf-8dbc-77c3db8f651f" name="Default" comment="" />
@@ -286,26 +310,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="53" width="1364" height="607" extended-state="1" />
+    <frame x="1180" y="319" width="1364" height="607" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18108505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18108505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -315,11 +347,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="149" selection-start-line="47" selection-start-column="149" selection-end-line="47" selection-end-column="149" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -327,7 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -335,7 +405,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -429,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7941176">
           <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,7 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13580246">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,30 +512,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.030864198">
           <caret line="47" column="149" selection-start-line="47" selection-start-column="149" selection-end-line="47" selection-end-column="149" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad4.html">
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.25">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.88235295">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -481,18 +531,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/index.html">
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7222222">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.030864198">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/js/app.js">
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88235295">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.030864198">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6396761">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/images/IMV.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/js/backbone.localStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="257" column="4" selection-start-line="257" selection-start-column="4" selection-end-line="257" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey-Week3/Quad1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95679015">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickel_Kelsey_Week4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8765432">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
           <folding />
         </state>
       </provider>
